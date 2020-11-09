@@ -26,7 +26,6 @@ body {
   height: 100% !important; }
 
 .img-fluid {
-  max-width: auto;
   max-height: 500px; }
 
 .carousel {
@@ -77,6 +76,9 @@ body {
 
 .lead {
   margin-bottom: 2rem; }
+
+.row img {
+  height: 400px; }
 
 .btn-primary {
   font-family: 'Poppins', sans-serif;
